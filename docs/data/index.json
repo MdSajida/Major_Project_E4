@@ -1,0 +1,37 @@
+{
+    "team": [
+        {
+            "name": "Dhanushka S.M.V.",
+            "email": "e16083@eng.pdn.ac.lk",
+            "eNumber": "E/16/083"
+        },
+        {
+            "name": "Wijayasinghe S.D.D.D.",
+            "email": "e16394@eng.pdn.ac.lk",
+            "eNumber": "E/16/394"
+        },
+        {
+            "name": "Wijekoon W.M.T.S.",
+            "email": "e16396@eng.pdn.ac.lk",
+            "eNumber": "E/16/396"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Mr. D.S. Deegalla",
+            "email": "sampath@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Mrs. Nadeesha Adikari",
+            "email": "nadeeshaa@eng.pdn.ac.lk"
+        }
+    ],
+    "media": [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
+    ],
+    "tags": ["Machine Learning", "Diabetes", "Food Recommendation", "Nutrients", "Final Year Projects"]
+}
