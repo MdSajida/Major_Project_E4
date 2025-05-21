@@ -12,17 +12,6 @@ title: Food Recommendation System Using Machine Learning for Diabetic Patients
 
 # Food Recommendation System Using Machine Learning for Diabetic Patients
 
-#### Team
-
-- E/16/083, Dhanushka S.M.V., [email](mailto:e16083@eng.pdn.ac.lk)
-- E/16/394, Wijayasinghe S.D.D.D., [email](mailto:e16394@eng.pdn.ac.lk)
-- E/16/396, Wijekoon W.M.T.S., [email](mailto:e16396@eng.pdn.ac.lk)
-
-#### Supervisors
-
-- Mr. D.S. Deegalla, [email](mailto:sampath@eng.pdn.ac.lk)
-- Mrs. Nadeesha Adikari, [email](mailto:nadeeshaa@eng.pdn.ac.lk)
-- Dr. Hashan Amarathunga, [email](mailto:hashansa@gmail.com)
 
 #### Table of content
 
